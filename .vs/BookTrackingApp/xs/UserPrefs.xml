@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{656E1B9D-7127-49A1-8E98-815B5F71B678}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BookTrackingApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Database/BookTrackingDataContext.cs">
+    <Files>
+      <File FileName="Controllers/CategoryController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/CategoryTypeController.cs" Line="1" Column="1" />
+      <File FileName="Database/BookTrackingDataContext.cs" Line="20" Column="9" />
+      <File FileName="Migrations/20211214082148_BookTrackingAppMigration1.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20211214082624_BookTrackingAppMigration2.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20211214082804_BookTrackingAppMigration3.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20211214083124_BookTrackingAppMigration4.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20211215153308_book tracking.cs" Line="1" Column="1" />
+      <File FileName="Migrations/BookTrackingDataContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookTrackingApp" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" selected="True" />
+            <Node name="BookTrackingApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Database" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20211214082148_BookTrackingAppMigration1.cs" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
